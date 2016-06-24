@@ -1,0 +1,33 @@
+ProgName  ：	B.cpp
+InputName ：	number.in
+OutputName：	number.out
+TimeLimit ：	1s (+0.1s)
+-------------------------------------------------------------------
+Test Case	1	:	Accepted		Time: 109 ms
+Test Case	2	:	Accepted		Time: 15 ms
+Test Case	3	:	Accepted		Time: 10 ms
+Test Case	4	:	Accepted		Time: 6 ms
+Test Case	5	:	Accepted		Time: 9 ms
+Test Case	6	:	Accepted		Time: 14 ms
+Test Case	7	:	Accepted		Time: 101 ms
+Test Case	8	:	Accepted		Time: 105 ms
+Test Case	9	:	Accepted		Time: 105 ms
+Test Case	10	:	Accepted		Time: 91 ms
+-------------------------------------------------------------------
+Total used time:	565 ms
+Total case(s):	10
+Accepted case(s):	10
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+1	/home/guessever/day2/number/number10.ou
+2	/home/guessever/day2/number/number1.ou
+3	/home/guessever/day2/number/number2.ou
+4	/home/guessever/day2/number/number3.ou
+5	/home/guessever/day2/number/number4.ou
+6	/home/guessever/day2/number/number5.ou
+7	/home/guessever/day2/number/number6.ou
+8	/home/guessever/day2/number/number7.ou
+9	/home/guessever/day2/number/number8.ou
+10	/home/guessever/day2/number/number9.ou
+-------------------------------------------------------------------
